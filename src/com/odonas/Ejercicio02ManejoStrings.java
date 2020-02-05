@@ -1,6 +1,6 @@
 package com.odonas;
 
-public class Main {
+public class Ejercicio02ManejoStrings {
 
     public static void main(String[] args) {
 	// write your code here
